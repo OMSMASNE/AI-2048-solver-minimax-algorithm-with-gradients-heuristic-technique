@@ -1,4 +1,4 @@
-# AI 2048 solver (Minimax algorithm).
+# AI 2048 solver (Minimax algorithm with gradients heuristic technique).
 
 # This project has been created by ***OM SANTOSHKUMAR MASNE*** .
 
